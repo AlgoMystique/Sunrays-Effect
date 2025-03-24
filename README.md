@@ -26,10 +26,3 @@ Check out the live demo [here](https://algomystique.github.io/Sunrays-Effect)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-
-If you have any questions or would like to get in touch, feel free to reach out:
-
-- Email: [sababacodes@gmail.com]
-
-Thank you for checking out the project!
