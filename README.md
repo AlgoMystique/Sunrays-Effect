@@ -30,6 +30,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you have any questions or would like to get in touch, feel free to reach out:
 
-- Email: [your-email@example.com](sababacodes@gmail.com)
+- Email: [sababacodes@gmail.com]
 
 Thank you for checking out the project!
